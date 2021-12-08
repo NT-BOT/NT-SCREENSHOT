@@ -5,7 +5,7 @@
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT)
-### 2nd
+<a href="https://github.com/NT-BOT-TE/NT-SCREENSHOT-2"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-yes-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
 [![SCREENSHOT-2](https://te.legra.ph/file/649225cbecb015fe2117f.jpg)](https://github.com/NT-BOT-TE/NT-SCREENSHOT-2)
 
 ## Support
