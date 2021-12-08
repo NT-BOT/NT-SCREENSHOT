@@ -7,8 +7,8 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT)
 
 ## Support
-<a href="https://t.me/NT_BOT_CHANNEL"><img src="https://img.shields.io/badge/Channel%20Join%3F-yes-green!&style=flat-square!&logo=telegram" width=220px></a></p>
-
+<a href="https://t.me/NT_BOT_CHANNEL"><img src="https://img.shields.io/badge/Channel%20Join%3F-yes-green?&style=flat-square!&logo=telegram" width=220px></a></p>
+<a href="https://t.me/Ntbotgroup"><img src="https://img.shields.io/badge/Group%20Join%3F-yes-green?&style=flat-square!&logo=telegram" width=220px></a></p>
 ### Environment Variables
 
 Properly setup the environment variables or populate `config.py` with the values (some of the values are sensitive data, so keep them safe).
