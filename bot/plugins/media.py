@@ -41,18 +41,18 @@ async def _(c, m):
     
     if m.document:
         if "video" not in m.document.mime_type:
-            await m.reply_text(f"**😟 Sorry! Only support Media Files.**\n**Your File type :** `{m.document.mime_type}.`", quote=True)
+            await m.reply_text(f"**😢 Sorry! Only support Media Files.**\n**Your File type :** `{m.document.mime_type}.`", quote=True)
 
     if not is_valid_file(m):
         return
     
-    snt = await m.reply_text("Hi there, Please wait while I'm getting everything ready to process your request!", quote=True)
+    snt = await m.reply_text("Hi he/she, Please wait while I'm getting everything ready to process your request!", quote=True)
     
     file_link = generate_stream_link(m)
     
     duration = await get_duration(file_link)
     if isinstance(duration, str):
-        await snt.edit_text("😟 Sorry! I cannot open the file.")
+        await snt.edit_text("😢 Sorry! I cannot open the file.")
         l = await m.forward(Config.LOG_CHANNEL)
         await l.reply_text(f'stream link : {file_link}\n\n {duration}', True)
         return
