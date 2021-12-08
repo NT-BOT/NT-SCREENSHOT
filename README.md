@@ -1,6 +1,6 @@
 ## SCREENSHOT BOT
 
-
+[![Screenshot bot logo](https://te.legra.ph/file/ce0319aa547a63876b28c.jpg)](http://t.me/NT_SCREENSHOT_BOT)
 
 ### Deploy to Heroku
 
