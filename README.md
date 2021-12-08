@@ -1,6 +1,10 @@
 ## SCREENSHOT BOT
 
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT)
+
+
 ### Environment Variables
 
 Properly setup the environment variables or populate `config.py` with the values (some of the values are sensitive data, so keep them safe).
