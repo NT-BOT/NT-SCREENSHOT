@@ -1,41 +1,5 @@
-# [ScreenShot Bot](https://tx.me/ScreenShotTGBot)
-> Telegram Bot For Screenshot Generation.
+## SCREENSHOT BOT
 
-## Description
-
-An attempt to implement the screenshot generation of telegram files without downloading the entire file. Live version can be found here [@ScreenShot Bot](https://tx.me/ScreenShotTGBot).
-> Screenshot Generation with Custom Watermark---Sample Video Generation---Trim video.
-
-## Installation Guide
-
-### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TGExplore/Screenshot-Bot)
-
-### Watch our YouTube video for more details - [Telegram Screenshot | Trim | Sample Video Generator Bot](https://youtu.be/Fsc-ZUvdO20)
-
-### Prerequisites
-* FFmpeg.
-* Python3 (3.6 or higher).
-
-### Local setup
-* Clone to local machine.
-```
-$ git clone https://github.com/odysseusmax/animated-lamp.git
-$ cd animated-lamp
-````
-
-* Create and activate virtual environment.
-```
-$ pip3 install virtualenv
-$ virtualenv venv
-$ source venv/bin/activate
-```
-
-* Install dependencies.
-```
-$ pip3 install -U -r requirements.txt
-```
 
 ### Environment Variables
 
@@ -54,13 +18,6 @@ Properly setup the environment variables or populate `config.py` with the values
 * `TRACK_CHANNEL`(optional) - User activity tracking channel's id. Only needed if you want to track and block any user. Disabled by default.
 * `SLOW_SPEED_DELAY`(optional) - Delay required between each request. Defaults to 15s.
 
-### Run bot
-`$ python3 -m bot`
-
-Now go to your bot and do a `/start`.
-
-## Supported commands and functions
-
 ### Commands
 
 * `/start` - Command to start bot or check whether bot is alive.
@@ -73,11 +30,6 @@ Now go to your bot and do a `/start`.
 * `/banned_users` - Admin/Auth users only command. Command to view all banned users. Usage: `/banned_users`. This takes no parameters.
 * `/broadcast` - Admin/Auth user only command. Command to broadcast some message to all users. Usage: reply `/broadcast` to the message you want to broadcast.
 
-### Functions
-* `Screenshot Generation` - Generates screenshots from telegram video files or streaming links. Number of screenshots range from 2-10.
-* `Manual Screenshot` - Generates screenshots of specific time. Number of screenshots range from 1-10.
-* `Sample Video Generation` - Generates sample video from telegram video files or streaming links. Video duration range from 30s to 150s. Configurable in `/settings`.
-* `Video Trimming` - Trims any telegram video files or streaming links. Video duration depends on the environment. By default upto 10 mins (600s).
 
 ### Settings
 In bot settings.
@@ -89,19 +41,3 @@ In bot settings.
 * `Screenshot Genetation Mode` - Either `random` or `equally spaced`. Defaults to `equally spaced`.
 
 
-## Contributions
-Contributions are welcome.
-
-## Contact
-You can contact me [@InFoTelGroup](https://tx.me/InFoTelGroup).
-
-## Thanks
-
-Thanks to [@odysseusmax](https://tx.me/odysseusmax) for his [animated-lamp](https://github.com/odysseusmax/animated-lamp) Bot.
-
-Thanks to [Dan](https://github.com/delivrance "Dan") for his [Pyrogram](https://github.com/pyrogram/pyrogram "Pyrogram") library.
-
-Thanks to [Tulir Asokan](https://github.com/tulir "Tulir Asokan") for his [TgFileStream](https://github.com/tulir/tgfilestream "TgFileStream") Bot.
-
-## License
-Code released under [The GNU General Public License](LICENSE).
