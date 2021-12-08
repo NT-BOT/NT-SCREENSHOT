@@ -5,8 +5,7 @@
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT)
-<a href="https://github.com/NT-BOT-TE/NT-SCREENSHOT-2"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-yes-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
-[![SCREENSHOT-2](https://te.legra.ph/file/649225cbecb015fe2117f.jpg)](https://github.com/NT-BOT-TE/NT-SCREENSHOT-2)
+<a href="https://github.com/NT-BOT-TE/NT-SCREENSHOT-2"><img src="https://img.shields.io/badge/2ndlink%20Open%3F-!-green?&style=flat-square!&logo=GitHub" width=220px></a></p>
 
 ## Support
 <a href="https://t.me/NT_BOT_CHANNEL"><img src="https://img.shields.io/badge/Channel%20Join%3F-yes-green?&style=flat-square!&logo=telegram" width=220px></a></p>
