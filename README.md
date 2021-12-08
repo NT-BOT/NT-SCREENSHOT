@@ -5,6 +5,7 @@
 ### Deploy to Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NT-BOT-TE/NT-SCREENSHOT)
+### 2nd
 [![SCREENSHOT-2](https://te.legra.ph/file/649225cbecb015fe2117f.jpg)](https://github.com/NT-BOT-TE/NT-SCREENSHOT-2)
 
 ## Support
